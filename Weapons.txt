@@ -1,0 +1,116 @@
+Game Weapons
+Primary Weapons:
+ Assault Rifles
+ M5
+ CT-Fusion- (SMG that can flip up to become an assault rifle (acts as an  attachment)
+AK-47
+ARX-160
+SCAR
+XM8
+Custom Underwater Gun
+G11
+        2. Sub Machine Guns
+Vector SMG .45 ACP
+MP7A1
+Custom Gun
+MP5K
+Custom Gun
+        3. Shotguns
+Breacher- shoots 8 timed charges at target to breach a door or kill someone.(2 second after contact)
+Custom Gun
+M4 Super 90
+Moosberg 500
+        4. Light Machine Guns
+M60
+M240B
+Mk48
+Custom Gun
+        5. Sniper Rifles
+M39 Marksman rifle
+Barret M82
+M110 Semi-Auto Rifle
+Remington MSR
+Custom Gun
+Secondary Weapons
+        1. Pistols
+CT-22- fires incendiary 
+Desert Eagle
+Buckeye (CT)- shotgun pistol
+P226
+Colt Rail Gun
+Viper-45(CT)- Revolver
+        2. Launchers
+Javelin
+AB Rocket Launcher (Armor Breaching)- Rocket grabs target and detonates after 3 seconds.  
+Revolving Grenade Launcher
+SMAW
+       3. Special
+	Tactical Bow N Arrow (Explodes on impact)
+Accesories
+       1. Lethals
+	Frag Grenades
+	Semtex
+	Cluster Bomb(CT)- Grenade that sends out sticky explosive charges.  
+	Throwing Knife
+	Wrist Poison Dart
+       2. Tactical
+	Smoke Grenade
+	Flashbang
+	Tear Gas
+3. Equipment
+	Mortar
+	Jammer
+	Stick Explosive- to stick to door frames
+	Rock mine- a mine disguised as a rock with motion sensors
+	RCTC- Remote Controlled Tripod Camera
+	Drone-fired Missile
+	Zipline Launcher
+Attachments
+	1. Sights
+		Reflex Sight
+		Holographic Sight
+		Variable Zoom Sight
+		Thermal Sight
+		Target Finder (Outlines most central enemy in view with certain proximity to player)
+		Backscatter Scope
+		Motion-Detecting Scope (Four dots outside of scope that blink when motion is detected outside view)
+	2. Muzzles
+		Silencer
+		Flash Supressor
+		Spiral Finish (Increase accuracy)
+		Recoil Reducer (Vents near base of barrel)
+	3. Side Barrells
+		Flashlight (Flash once black then on)
+		Laser
+		Heartbeat Sensor
+		Bayonet
+		BMC Launcher- Ballistic Microcam (remote control camera that launches from attachment and sticks to surface)
+	4. Underbarrells
+		Masterkey
+		Grenade Launcer
+		Flame launcher (fires object that lights target on fire, sensative incendiary)
+		Bipod
+		Fore grip
+	6. Specials
+		Extended Mag
+		Quick Mag
+		Dual Wield
+
+Tactical Advantages (TA)- Technology
+	Apparition- invisible to enemy special sights
+	Cloak- invisible to enemy radar
+	QT- invisible to enemy aircraft/drones
+	Glitch- able to sneak past enemy equipment
+	Titan- explosive tipped ammo
+	Tracer- every third round is a tracer
+	Powder Monkey- take doube lethals or tacticals
+	Gunsmith- allows perks on guns
+Booster- Physical
+	Fitness- move faster
+	Endurance- unlimited sprint
+	Marksman- steadier aim from hip and sights
+	Ninja- move silently
+	Quick Hands- faster reload, weapon transition, grenade prep
+	Rapid Takedown- faster hand-to-hand combat
+	0 Gravity or 0 G’s- take less fall damage
+	Hulk- throw farther and be stronger
