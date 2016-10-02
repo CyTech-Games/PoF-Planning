@@ -1,0 +1,8 @@
+This folder should hold all model prototypes made in Blender and/or Sketchup.
+
+Approved-Holds all model prototypes that have been approved and are ready to be modeled for the actual game.
+
+Deciding-Holds all model prototypes that are still being examined and where new model prototypes are placed
+
+Disapproved-Holds all model prototypes that are either ready to be deleted or need improvement.
+	If a model needs improvement, a text file of the same name as the model needs to accompany the model providing any advice.

@@ -1,0 +1,8 @@
+This folder should hold all pencil sketches on paper that have been scanned into the computer.
+
+Approved-Holds all pencil sketches that have been approved and are ready to be sketched in color digitally.
+
+Deciding-Holds all pencil sketches that are still being examined and where new sketches are placed
+
+Disapproved-Holds all pencil skecthes that are either ready to be deleted or need improvement.
+	If a sketch needs improvement, a text file of the same name as the sketch needs to accompany the sketch providing any advice.

@@ -1,0 +1,8 @@
+This folder should hold all color sketches that were made on Sketchbook, Photoshop, or Gimp.
+
+Approved-Holds all color sketches that have been approved and are ready to be modeled as a prototype.
+
+Deciding-Holds all color sketches that are still being examined and where new color sketches are placed.
+
+Disapproved-Holds all color skecthes that are either ready to be deleted or need improvement.
+	If a sketch needs improvement, a text file of the same name as the sketch needs to accompany the sketch providing any advice.
