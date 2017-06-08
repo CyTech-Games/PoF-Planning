@@ -1,0 +1,25 @@
+Concepts
+
+Preliminary Sketches
+ -Single pencil-sketched views such as a side view of a 
+particular asset that must be discussed and approved by both of us before
+being fully sketched.
+-Must have overall dimensions and be proportional. (graph paper, if possible)
+
+Full Sketches
+-At this point, all views should be sketched on paper in pencil and put into
+a single folder named after the asset.  
+-Each image view within the folder should be named as follows: 
+AssetName_Left, AssetName_Front, AssetName_Perspective, etc.
+-These views will be discussed as a whole together and, if approved, ready for Color.
+
+Colored Sketches
+-All the views within the asset's folder should be imported to a digital drawing 
+software such as Sketchbook to be set up using the layer system stated in 
+the Design Pipeline and given a color scheme discussed by the both of us.
+-Separate images may be necessary depending on the scale of the asset and 
+the level of detail that needs to be preserved.
+***Keep the proportions equal across all images to provide easier modeling***
+-If approved, it is ready for a grey-box in Blender
+
+
